@@ -16,7 +16,7 @@ requirements = required
 
 setup(
     name='abstract_python_ip_geolocation',
-    version='0.1.0',
+    version='1.0.0',
     author='Benjamin Bouchet',
     author_email='libraries@abstractapi.com',
     description="AbstractIpGeolocation - Wrapper to quickly start using the powerful AbstractAPI's IP geolocation service in your projects.",
