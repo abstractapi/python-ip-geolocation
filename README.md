@@ -113,5 +113,5 @@ python3 setup.py install --user
 Once you implementer all your changes and the unit tests, run the following command to run the tests:
 
 ```bash
-EMAIL_VAL_API_KEY=YYYYYY python3 tests/test_python_ip_geolocation.py
+IP_GEOLOCATION_API_KEY=YYYYYY python3 tests/test_python_ip_geolocation.py
 ```
